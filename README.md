@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! My name is Andrew.
+## Hello! My name is Andrew.
 ___
 <!-- Check out [my portfolio](http://www.yourazhousebuyer.com). -->
 
@@ -27,12 +27,12 @@ My last fiew projects have included:
 
 I'm currently learning more about C# along with the basics of JavaScript while getting involved in and contributing to the software development community.
 
-#### The Road to Here
+### The Road to Here
 After graduating from college I spent several years at a major financial institution, and later ran my own real estate business, but I always held a desire to do something more technical and challenging. Fast forward a few years, and I became a stay at home dad. I took this time to clarify my interests, and it quickly became apparent that a career in software development could be an excellent fit.
 
-#### The Road Ahead
+### The Road Ahead
 I've set a goal to get hired as a full-stack software developer by August 2022.
 According to others who have shared their journey, going from *brand new* to *valuable enough to get paid* without a science degree or bootcamp is challenging but doable. I'll continue building applications, solving problems (however minor they may be) and sharing what I learn along the way.
 
-#### Contact Me
+### Contact Me
 If you have any input, comments, suggestions or criticism, I'd be happy to hear from you. The best way to reach me is by email at <andrew.abbott2@gmail.com>.
