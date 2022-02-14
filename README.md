@@ -21,9 +21,9 @@ Since April 2020 I have been studying software development. My goal is to work a
 I'm currently recreating the game, Battleship. The project uses ASP.NET Core MVC and connects to an API to persist the data. I use vanilla JavaScript for the UI.
 
 My last fiew projects have included:
-- Buiding a simple CRM. User management is handled through ASP.NET Core Identity. Users can sign in through Google or through two factor authentication, and once logged in, they can add/update/delete new customers along with mutiple addresses per customer. Data is sent from the web application to a separate API that communicates with SQL Server through EF Core.
+- A simple CRM. User management is handled through ASP.NET Core Identity. Users can sign in through Google or through two factor authentication, and once logged in, they can add/update/delete new customers along with mutiple addresses per customer. Data is sent from the web application to a separate API that communicates with SQL Server through EF Core.
 - A console application that pulls real estate data from public sites and imports to a SQL database for analysis.
-- Building a personal website that is functional, attractive and responsive using purely HTML and CSS.
+- A personal website that is functional, attractive and responsive using purely HTML and CSS.
 
 I'm currently learning more about C# along with the basics of JavaScript while getting involved in and contributing to the software development community.
 
